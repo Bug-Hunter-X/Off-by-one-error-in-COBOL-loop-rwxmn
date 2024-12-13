@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL loops. The bug is caused by an error in loop termination condition. The solution shows how to fix this error.
